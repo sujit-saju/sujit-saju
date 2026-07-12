@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sujit 👋</h1>
 
 <p align="center">
-  <b>Edge AI Systems Engineer</b> &nbsp;·&nbsp; Real-Time Video Pipelines &nbsp;·&nbsp; NVIDIA Jetson &nbsp;·&nbsp; Distributed Systems
+  <b>Software Engineer</b> &nbsp;·&nbsp; Real-Time Video Pipelines &nbsp;·&nbsp; NVIDIA Jetson &nbsp;·&nbsp; Distributed Systems
 </p>
 
 ---
