@@ -36,7 +36,8 @@ Frontend              →   React.js · Redux · Tailwind CSS
 Multi-camera real-time inference and recording on dual Jetson Orin NX. FSM-based orchestration coordinates detection, streaming, recording, alerting, and automatic recovery across concurrent streams.
 `Python` `C/C++` `GStreamer` `YOLO` `TensorRT` `ONNX Runtime` `NVIDIA Jetson`
 
-#### 📡 [RTSP Manager](https://github.com/sujitsaju/rtsp-manager)
+#### 📡 [RTSP Manager Server](https://github.com/sujitsaju/rtsp-manager-server)
+#### 📡 [RTSP Manager UI](https://github.com/sujitsaju/rtsp-manager-ui)
 Full-stack platform to convert uploaded video files into live RTSP streams for development and testing.
 `Python` `Quart` `FFmpeg` `MediaMTX` `React 19` `TypeScript`
 
