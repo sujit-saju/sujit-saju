@@ -6,15 +6,24 @@
 
 ---
 
-### What I build
-
-I work on production Edge AI systems — the kind that run inference on live video streams, coordinate across multiple devices, and have to stay reliable under high GPU/CPU load.
-
-Currently building:
-- 🎥 A distributed AI-powered video surveillance platform on **dual NVIDIA Jetson Orin NX** — multi-camera inference, recording orchestration, alert management, and system diagnostics
-- 🕸️ A **mesh-topology coordination layer** for managing distributed Jetson nodes via REST APIs and event-driven workflows
-- ⚙️ Contributing to a **C/C++ video processing engine** for stream management and device coordination, alongside a Python orchestration layer
-
+### About
+ 
+Software Engineer with ~3 years of experience building real-time Edge AI systems for production environments. I specialize in deploying and optimizing AI inference pipelines on NVIDIA Jetson platforms, and in architecting the distributed systems that coordinate them at scale.
+ 
+Currently, I lead backend development for an AI-powered video surveillance and monitoring platform running on a distributed dual-Jetson Orin NX architecture. My work spans Python-based orchestration and growing hands-on C/C++ development for the core video-processing engine, alongside finite-state-machine architectures that coordinate detection, RTSP streaming, recording, alerting, and automatic recovery across multiple concurrent camera streams. I also contribute to a mesh-topology coordination layer that manages the launch and communication of distributed Jetson nodes.
+ 
+Beyond the embedded/edge layer, I also build the systems that sit on top of it — REST APIs, device telemetry services, and full-stack dashboards using Java, Spring Boot, React.js, and TypeScript — so I'm comfortable owning a product end-to-end, from on-device inference to the control plane and UI that runs it.
+ 
+Earlier in my career, I built enterprise backend systems (CRM, HRMS, Billing, Inventory, Support Ticket Management) using Java and Spring Boot, with a focus on REST API design, database optimization, and authentication/authorization.
+ 
+I enjoy engineering problems involving concurrency, distributed coordination, inference optimization, and real-time data processing — and I'm increasingly focused on Edge AI, embedded systems, and the infrastructure that connects them.
+ 
+**Areas of Interest:**
+- Edge AI & Inference Optimization
+- Distributed Systems for Edge/IoT
+- Real-Time Video Processing
+- Embedded & Systems Software (C/C++)
+- Backend & Full-Stack Engineering
 ---
 
 ### Tech I work with
@@ -44,14 +53,6 @@ Full-stack platform to convert uploaded video files into live RTSP streams for d
 #### 👥 [Multi-Camera People Counter](https://github.com/sujitsaju/multi-camera-people-counter) [Under Development]
 Zone-based occupancy detection across multiple cameras with SQLite logging and a live React dashboard.
 `Python` `YOLOv8` `SQLite` `React`
-
----
-
-### Background
-
-~3 years building production systems across two domains — Edge AI inference pipelines on embedded hardware, and enterprise backend systems (CRM, HRMS, Billing, Inventory) in Java/Spring Boot. I like the systems layer: concurrency, reliability, real-time data flow, and making AI models actually run fast on constrained hardware.
-
-Currently deepening C/C++ for systems-level work and exploring TensorRT optimization patterns.
 
 ---
 
